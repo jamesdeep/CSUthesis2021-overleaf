@@ -8,5 +8,5 @@
 开箱即用：
 https://www.overleaf.com/read/hdgphmpwbxvk
 
-主要参考前人的模板修改而成，感谢！
+主要参考前人的模板修改而成，感谢！修改说明直接参考：
 https://github.com/csucse/csuthesis
